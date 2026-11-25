@@ -29,5 +29,3 @@ Vídeo da Segunda Sprint
 
 Cronograma Terceira Sprint
 -
-| [Sprint 3](#) | 12/11/2026 | 26/11/2026 |:white_check_mark: |
-| Sprint review | | | |
