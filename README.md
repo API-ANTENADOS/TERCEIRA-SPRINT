@@ -32,5 +32,4 @@ Cronograma Terceira Sprint
 
 | <span translate="no">Fase</span> | <span translate="no">Início</span> | <span translate="no">Entrega</span> | <span translate="no">Status</span> |
 | :--- | :---: | :---: | :---: |
-| Sprint Review/Planning | | | |
-| [Sprint 3](#) | 12/11/2026 | 26/11/2026 |:white_check_mark: |
+| [Sprint 3](#) | 12/11/2026 | 26/11/2026 |:white_check_mark:|
