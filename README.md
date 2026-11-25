@@ -21,7 +21,7 @@ Análise do Pico Salarial no Setor de Telecomunicações em 2022
 -
 *Neste dashboard, apresento uma análise da evolução salarial no setor de telecomunicações em São José dos Campos, destacando o ano de 2022, quando ocorreu o maior pico salarial do período analisado. Busquei comparar os salários entre homens e mulheres, observar as diferenças salariais e identificar possíveis fatores que contribuíram para esse crescimento, como a implantação do 5G, reajustes salariais, aumento do número de funcionários e investimentos no setor. Com essa análise, pude compreender melhor o comportamento dos salários e as mudanças ocorridas no mercado de telecomunicações entre 2020 e 2025.*
 
-Imagem
+<img width="1456" height="810" alt="Captura de tela 2026-11-25 125542" src="https://github.com/user-attachments/assets/8b434034-137f-490a-925d-26e0c71a8547" />
 
 Vídeo da Segunda Sprint
 -
