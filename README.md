@@ -1,10 +1,9 @@
 Terceira Sprint - Antenados
 -
-## Backlog do Produto – Sprint 3
+*Na terceira sprint, temos como objetivo investigar os fatores que contribuíram para o pico salarial identificado em 2022 no setor de telecomunicações. Para isso, utilizaremos os dados da RAIS e os dashboards desenvolvidos no Power BI, buscando comparar salários, identificar as ocupações com maiores remunerações, analisar os vínculos empregatícios e compreender quais fatores podem ter influenciado esse crescimento salarial. Ao final, esperamos apresentar os resultados por meio de gráficos, indicadores e conclusões baseadas nos dados analisados.*
 
-### Objetivo da Sprint
-
-Investigar os fatores que contribuíram para o pico salarial identificado em 2022 no setor de telecomunicações, utilizando os dados da RAIS e dashboards interativos desenvolvidos no Power BI, a fim de identificar possíveis causas dessa variação salarial.
+Backlog do Produto – Sprint 3
+-
 
 | Classificação | Prioridade | EU IA | História do Usuário | Estimativa (h) | Requisitos do Parceiro |
 |---|---|---|---|---|---|
@@ -18,11 +17,17 @@ Investigar os fatores que contribuíram para o pico salarial identificado em 202
 | 8 | MÉDIA | EUA-17 | Como cliente, quero consultar as conclusões da investigação para compreender os resultados obtidos. | 4 | A validar |
 | 9 | BAIXA | EUA-18 | Como cliente, quero visualizar um dashboard padronizado e organizado para facilitar a compreensão das informações. | 4 | A validar |
 
-### Resultados Esperados
+Análise do Pico Salarial no Setor de Telecomunicações em 2022
+-
+*Neste dashboard, apresento uma análise da evolução salarial no setor de telecomunicações em São José dos Campos, destacando o ano de 2022, quando ocorreu o maior pico salarial do período analisado. Busquei comparar os salários entre homens e mulheres, observar as diferenças salariais e identificar possíveis fatores que contribuíram para esse crescimento, como a implantação do 5G, reajustes salariais, aumento do número de funcionários e investimentos no setor. Com essa análise, pude compreender melhor o comportamento dos salários e as mudanças ocorridas no mercado de telecomunicações entre 2020 e 2025.*
 
-- Identificação dos possíveis fatores responsáveis pelo pico salarial em 2022.
-- Comparação da remuneração entre os anos analisados.
-- Identificação das ocupações com maior influência salarial.
-- Análise dos vínculos empregatícios.
-- Desenvolvimento de um dashboard interativo no Power BI.
-- Apresentação de conclusões fundamentadas nos dados da RAIS.
+Imagem
+
+Vídeo da Segunda Sprint
+-
+*Sobre o video*
+
+Cronograma Terceira Sprint
+-
+| [Sprint 3](#) | 12/11/2026 | 26/11/2026 |:white_check_mark: |
+| Sprint review | | | |
