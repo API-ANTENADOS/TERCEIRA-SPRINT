@@ -27,6 +27,8 @@ Vídeo da Segunda Sprint
 -
 *Sobre o video*
 
+link
+
 Cronograma Terceira Sprint
 -
 
