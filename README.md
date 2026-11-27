@@ -25,9 +25,9 @@ Análise do Pico Salarial no Setor de Telecomunicações em 2022
 
 Vídeo da Segunda Sprint
 -
-*Sobre o video*
+*O vídeo apresenta o desenvolvimento da terceira sprint do projeto Antenados, com foco na análise do pico salarial de 2022 no setor de telecomunicações, buscando compreender os fatores que influenciaram esse crescimento e identificar informações relevantes por meio da análise de dados.*
 
-link
+https://youtu.be/iyARcxOOgK8?si=ICMciJaIg3wiylXy
 
 Cronograma Terceira Sprint
 -
